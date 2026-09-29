@@ -63,6 +63,16 @@ where:
 end
 
 #Encryptor5
-support.encryptor5("123456789")
-support.encryptor5("abcdefg")
-support.encryptor5("Beiniiii012")
+#|i couldn't figure out what the secret behind the code
+support.encryptor5("beii")
+support.encryptor5("introduction")
+
+fun myencryptor5(s5 :: String)
+ -> String:
+|#
+
+
+#Encryptor6
+support.encryptor6("beini")
+support.encryptor6("introduction")
+
